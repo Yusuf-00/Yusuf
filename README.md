@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 👨‍💻 I’m currently as ... Frontend Engineer.
+- 👨‍💻 I’m currently wrorking as ... Frontend Engineer.
 - 🔭 I’m also working on ... becoming a full stack web dev.
 - 🌱 I’m currently learning ... nuxt and nodeJs.
 - 💬 Ask me about ... whatever.
